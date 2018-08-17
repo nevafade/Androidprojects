@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main" tools:context=".MainActivity"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/player"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="first players turn"/>
+
+
+
+
+
+
+
+    <ImageView
+    android:id="@+id/dice_face"
+    android:src="@mipmap/ic_dice_two"
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+        android:layout_above="@+id/roll_button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+    <Button
+        android:id="@+id/roll_button"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:text="Roll"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/hold_button"
+        android:layout_toStartOf="@+id/hold_button" />
+
+    <Button
+        android:id="@+id/hold_button"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:text="hold"
+        android:layout_alignTop="@+id/roll_button"
+        android:layout_toLeftOf="@+id/reset_button"
+        android:layout_toStartOf="@+id/reset_button" />
+
+
+    <Button
+        android:id="@+id/reset_button"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:text="reset"
+        android:layout_alignTop="@+id/hold_button"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/firstplayerscore"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="First Player Score :  0"
+        android:layout_below="@+id/roll_button"
+        android:layout_alignLeft="@+id/roll_button"
+        android:layout_alignStart="@+id/roll_button" />
+
+
+    <TextView
+        android:id="@+id/secondplayerscore"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="Second Player Score :  0"
+        android:layout_below="@+id/reset_button"
+        android:layout_toRightOf="@+id/hold_button"
+        android:layout_toEndOf="@+id/hold_button" />
+
+
+</RelativeLayout>
