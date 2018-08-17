@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MazeRunner</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_clue">Clue</string>
+    <string name="L1C1">Hagrid once brought \"Harry Potter:the Boy who Lived\" his beloved owl hedwig who was Harry\'s constant companion till hedwig was put to rest in combat with belatrix and Voldmort.\n
+Now, Harry wants his son Albus Severus Potter to have his very own companion.
+Floo powder leads to \"DAIGON ALLEY\"</string>
+    <string name="L1C2">The Phoenix saved Harry and Ginny from the fangs of the Basilisk. The Gryffindore\'s sword is even more stronger now.
+It is now Harry\'s responsibity to handover it to \"Dumbledore in his chamber\".</string>
+    <string name="L1C3">Snape saved Draco from the misfortune of murder.Dumbledore is dead.The Dark Mask has been cast.Hogwards is under attack.
+    Go to \"Minevra McGonagalls chamber\" and inform her that she has to bring forth the warriors of Hogwards and remind them there oth and responsibility.</string>
+    <string name="L1C4">The Basilisk is lose.Hermoine is in the library giving her best to help rescue Ginny.There is water all over the floor.
+    Hermoine gets Shocked due to indirect contact with the Basilisk take her to Hogwards doctor</string>
+
+    <string name="L2C1">Jocker is set on a building a trail of havoc.Batmobile is held up at Batcave.Bruce Wayne should rush to Batcave to retrive his vehicle.</string>
+
+    <string name="L2C2">The vat of chemicals in Gotham city.Harley quinn wants to visit the very start of her puddin\'s malechious looks.</string>
+
+    <string name="L2C3">Joker can kill for kicks .This time it was clusters of gas cylinders threathening to turn Rachel and Harley Dent to ashes.Batman is late "here" to help even one of them.Rachel died and Dent becomes the two faced man.(Rachel\'s death scene)
+.</string>
+
+     <string name="L3C1">Phoebe is peril.She is double dating!!! and to ice the cake "the fireman" is just good as the other guy "the carpenter".She has to give this news to Monika,Rachel,Ross.They are at central perk.She has to go get them before they leave for work.
+</string>
+
+    <string name="L3C2">Richard called things off with Monica.Monica is trying to get over him ever since .Its been a week now she has to get Richard out of her system. She should engulf her self into her favourite proffession.Rachel and Phoebe hav to rush to her in order to help her out.
+</string>
+
+    <string name="L3C3">Monica and Rachel lost the bet. They hav lost there lovely apartment to Chandler and Joey.the only way chandler and joey will move out is, if Monica and Rachel barge into there home and get it.
+</string>
+
+    <string name="L3C4">Joey was sure that he will get the role of doctor drake remore\'s twin in no time.Now joey acts too hotheaded in front of the director and loses his golden chance.Only one thing can cheer him.Chandler has to rush  </string>
+
+    <string name="L4C1">Our mystery begins at the morgue where Molly Hooper discovers that the body, which supposedly belonged to Jim Moriarty, does not match the DNA sample which they had acquired before. She then calls Sherlock and Watson over to the lab to explain the situation. Head to the location.  </string>
+
+    <string name="L4C2">The  case is hard this time, and the need to solve it is dire. With only a few resources left Sherlock looks into the one place that holds all his past experiences, all of his records, The Mind Palace. In there he must find the answers to the problems he faces.</string>
+
+
+
+
+
+
+
+</resources>
